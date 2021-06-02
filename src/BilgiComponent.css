@@ -1,0 +1,17 @@
+.sehir{
+    color: white;
+    background-color: #164156;
+    border-color: #164156;
+    border-radius: 15px;
+    height: 30px;
+    margin-left: 25px;
+    margin-bottom: 2em;
+    border-style: unset;
+ 
+
+}
+
+iframe
+{
+    display: none;
+}
